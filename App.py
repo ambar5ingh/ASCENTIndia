@@ -5,7 +5,6 @@ WRI India | Full-sector GHG emissions questionnaire with IPCC 2019 formulas
 import streamlit as st
 import numpy as np
 import pandas as pd
-pip install plotly
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import json
